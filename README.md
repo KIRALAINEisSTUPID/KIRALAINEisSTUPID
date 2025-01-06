@@ -5,4 +5,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 ![lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KIRALAINEisSTUPID&theme=dracula&exclude=html)
 ![repostatic](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KIRALAINEisSTUPID&theme=dracula&exclude=html)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote="I don't see myself as a visionary at all."&autor=LI)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=I%20don%27t%20see%20myself%20as%20a%20visionary%20at%20all&autor=Linus)](https://github.com/piyushsuthar/github-readme-quotes)
