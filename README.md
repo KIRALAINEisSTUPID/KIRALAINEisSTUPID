@@ -5,4 +5,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 ![lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KIRALAINEisSTUPID&theme=dracula&exclude=html)
 ![repostatic](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KIRALAINEisSTUPID&theme=dracula&exclude=html)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
